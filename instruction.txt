@@ -1,0 +1,27 @@
+Name : Mushtari Maknun
+ID : 011151212
+
+Name : Marjana Islam
+ID : 011151213
+
+
+
+ Description: 
+
+    We have created a Summer Windmill Farm with a colorful medow and river  accompanied by a peaceful background music. It is a 2D scenario based project. It  has some dynamic actions like cloud and bird movement.
+
+ To run the windmills, press the following keys - 
+
+ Key "L" : To spin the blades left.
+
+ Key "R" : To spin the blades right.
+
+ Key "S" : To stop the blades.
+
+ It also has some static elements such as-
+ # Trees
+ # Bushes
+ # Fence
+ # Flowers
+ # grass.
+
